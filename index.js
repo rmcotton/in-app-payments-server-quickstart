@@ -124,7 +124,7 @@ function getOrderRequest() {
           quantity: "1",
           base_price_money: {
             amount: 100,
-            currency: "USD"
+            currency: "GBP"
           }
         }
       ]
